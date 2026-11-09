@@ -111,6 +111,12 @@ export function Footer() {
                     <p>
                         The information on this website is for informational purposes only and is not intended to advertise, provide legal advice, solicit clients, or create any attorney-client relationship.
                     </p>
+                    <p className="mt-4">
+                      Powered by{" "}
+                      <a href="https://www.voiseai.com/" target="_blank" rel="noopener" className="font-semibold text-foreground underline underline-offset-2 hover:text-primary">
+                        VoiseAI
+                      </a>
+                    </p>
                 </div>
             </div>
         </footer>
